@@ -7,7 +7,7 @@ import (
 	"net"
 	"os"
 )
-
+// TODO add proper hangup exit 
 const (
 				connHost = "localhost"
 				connPort = "8149"

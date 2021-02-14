@@ -1,5 +1,5 @@
 package main
-
+// TODO add exit or quit command to send to server
 import (
 				"fmt"
 				"net"
